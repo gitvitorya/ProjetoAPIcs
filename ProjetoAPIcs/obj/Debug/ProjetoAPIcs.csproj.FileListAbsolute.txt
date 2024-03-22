@@ -1,0 +1,10 @@
+C:\Users\vitorya.candido\source\repos\ProjetoAPIcs\bin\Debug\ProjetoAPIcs.exe.config
+C:\Users\vitorya.candido\source\repos\ProjetoAPIcs\bin\Debug\ProjetoAPIcs.exe
+C:\Users\vitorya.candido\source\repos\ProjetoAPIcs\bin\Debug\ProjetoAPIcs.pdb
+C:\Users\vitorya.candido\source\repos\ProjetoAPIcs\obj\Debug\ProjetoAPIcs.csproj.AssemblyReference.cache
+C:\Users\vitorya.candido\source\repos\ProjetoAPIcs\obj\Debug\ProjetoAPIcs.csproj.CoreCompileInputs.cache
+C:\Users\vitorya.candido\source\repos\ProjetoAPIcs\obj\Debug\ProjetoAPIcs.exe
+C:\Users\vitorya.candido\source\repos\ProjetoAPIcs\obj\Debug\ProjetoAPIcs.pdb
+C:\Users\vitorya.candido\source\repos\ProjetoAPIcs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vitorya.candido\source\repos\ProjetoAPIcs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vitorya.candido\source\repos\ProjetoAPIcs\obj\Debug\ProjetoAPIcs.csproj.CopyComplete
